@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"BARBARIAN","characterIndex":0,"characterName":"BARBARIAN","classId":1,"equips":[2,27,46,5,0],"faceIndex":0,"faceName":"BARBARIAN","traits":[],"initialLevel":1,"maxLevel":99,"name":"BARBARIAN","nickname":"","note":"<faceForNetwork:BARB>","profile":"A hulking warrior that uses melee combat to crush\nhis enemies."},
+{"id":2,"battlerName":"WIZARD MAN","characterIndex":0,"characterName":"WIZARD MAN","classId":2,"equips":[7,39,46,2,0],"faceIndex":0,"faceName":"WIZARD MAN","traits":[],"initialLevel":1,"maxLevel":99,"name":"WIZARD","nickname":"","note":"<faceForNetwork:WIZ>","profile":"A cunning spellcaster that uses magic to crush\nhis enemies."},
+{"id":3,"battlerName":"BARBARIAN WOMAN","characterIndex":0,"characterName":"BARBARIAN WOMAN","classId":1,"equips":[1,27,46,2,0],"faceIndex":0,"faceName":"BARBARIAN WOMAN","traits":[],"initialLevel":1,"maxLevel":99,"name":"BARBARIAN","nickname":"","note":"<faceForNetwork:BARB2>","profile":"A hulking warrior that uses melee combat to crush\nher enemies."},
+{"id":4,"battlerName":"WIZARD WOMAN","characterIndex":0,"characterName":"WIZARD WOMAN","classId":2,"equips":[7,39,46,2,0],"faceIndex":0,"faceName":"WIZARD WOMAN","traits":[],"initialLevel":1,"maxLevel":99,"name":"WIZARD","nickname":"","note":"<faceForNetwork:WIZ2>","profile":"A cunning spellcaster that uses magic to crush\nher enemies."},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
